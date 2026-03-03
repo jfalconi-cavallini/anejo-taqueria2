@@ -539,8 +539,8 @@ function OrderSection() {
 ─────────────────────────────────────────────── */
 function ContactSection() {
   const cards = [
-    { icon: "📍", label: "Address", value: "123 Taqueria Blvd\nYour City, TX 75001", href: "https://maps.google.com" },
-    { icon: "📞", label: "Phone", value: "(555) 123-4567", href: "tel:+15551234567" },
+    { icon: "📍", label: "Address", value: "7355 N Beach St Suite 161\nFort Worth, TX 76137", href: "https://maps.google.com" },
+    { icon: "📞", label: "Phone", value: "(817) 773-9929", href: "tel:+18177739929" },
     { icon: "🕐", label: "Hours", value: "Mon–Fri: 11am – 9pm\nSat–Sun: 9am – 10pm", href: null },
     { icon: "📸", label: "Instagram", value: "@anejotaqueria", href: "https://instagram.com/anejotaqueria" },
   ];
